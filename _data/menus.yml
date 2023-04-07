@@ -1,0 +1,27 @@
+main:
+  - name: "About"
+    url: "/about/"
+    weight: 1
+  - name: "Ministries"
+    url: "/services/"
+    weight: 2
+  - name: "Leadership"
+    url: "/team/"
+    weight: 3
+  - name: "Visitors"
+    url: "/visitors/"
+    weight: 4
+  - name: "Contact"
+    url: "/contact/"
+    weight: 5
+  - name: "Give"
+    url: "/give/"
+    weight: 6
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Contact"
+    url: "/contact/"
+    weight: 2
