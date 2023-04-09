@@ -1,7 +1,7 @@
 ---
-title: Team
+title: Leadership
 layout: teams
-description: Team
+description: Leadership
 permalink: "/team/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false

@@ -3,7 +3,7 @@
     "title": "Child Care",
     "description": "Nursery, preschool, and elementary child care services are available during the worship service",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/child.svg",
       "width": 80,
       "height": 80
     }
@@ -11,8 +11,9 @@
   {
     "title": "Equipping the Saints",
     "description": "A pre-service opportunity to encourage one another in spiritual growth through educational series",
+    "url": "/ets/",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/equipment.svg",
       "width": 80,
       "height": 80
     }
@@ -20,8 +21,9 @@
   {
     "title": "Cafe Connections",
     "description": "Grab a cup of coffee or tea in our community room and enjoy it before and during the service",
+    "url": "/services/enfolding-and-welcoming/",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/coffee.svg",
       "width": 80,
       "height": 80
     }

@@ -2,9 +2,9 @@
 title: Blue Course Community Church
 layout: home
 description: We are Blue Course Community Church and we are so glad you're here!
-intro_image: "https://bluecoursecommunity.church/wp-content/uploads/2022/08/20220825_171209-1536x1152.jpg"
+intro_image: "images/collage4.png"
 intro_image_absolute: true
-intro_image_hide_on_mobile: true
+intro_image_hide_on_mobile: false
 show_call_box: false
 ---
 

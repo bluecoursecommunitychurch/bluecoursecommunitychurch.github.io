@@ -13,14 +13,14 @@ To glorify God by growing a life-changing community of fully devoted Christ-foll
 
 ## Our Vision
 
-**At Blue Course Community Church, we desire:**
+### At Blue Course Community Church, we desire:
 
 To Become A Transformational Community Of Fully-Devoted Christ Followers Reflecting Him To The World
 
 A transformational community  is a group of people who love God, His family, and His mission as they together experience 
 the life-changing message of the Gospel.
 
-**Therefore, as a transformational community, we are called to:**
+### Therefore, as a transformational community, we are called to:
 
 Love God, which is a response to His love for us (I John 4:19). As we abide in Christ (John 15:4 ), we will experience a 
 growing relationship with Him. Our love for God will attract people of all ages to love God above all else.
@@ -34,9 +34,9 @@ community at our doorstep.
 
 # Strategic Initiatives
 
-## IN OUR TRANSFORMATIONAL COMMUNITY…
+## In our transformational community...
 
-### ...WE ‘WORSHIP GOD TOGETHER’
+### ...we worship God together.
 
 Blue Course Community Church considers worship to be intentionally giving glory to God in response to who He is and what 
 He has done. We worship God as Father, Son, and Holy Spirit. We understand God created us for relationship with Him and 
@@ -45,9 +45,9 @@ to glorify God in all they say and do. On Sunday mornings, we worship together a
 this through vocal praise, prayer, giving, the sacraments, and by engaging in Bible-based teaching. Our goal is to equip 
 and encourage all members to grow in their devotion to Christ, and to reflect Him to the world.
 
-### ...WE EXPERIENCE LIFE CHANGE THROUGH RELATIONSHIPS
+### ...we experience life change through relationships.
 
-Blue Course Community is a local church community which exists to discover, encourage, and support Jesus’ life-changing 
+Blue Course Community Church is a local church community which exists to discover, encourage, and support Jesus’ life-changing 
 message for everyone. We believe transformation happens in and through relationships, and these are best formed and 
 strengthened within a Christ-centered community. Beyond weekly worship, we emphasize regular community engagement in life 
 groups, small groups, or ministry teams. These groups gather for Bible study, prayer, discipleship, fellowship, service, 
@@ -55,17 +55,17 @@ and outreach. Participants in these groups develop and grow their faith as they 
 recognize that the church is healthy and growing when every part of His church body does its own special work. We strive to 
 equip and resource all members of the body to discover and use their gifts in love and service.
 
-### ...WE ARE ‘FAMILY FOCUSED’
+### ...we are family-focused.
 
-Blue Course Community recognizes the significance of God’s family in His design for relational commitment and personal 
+Blue Course Community Church recognizes the significance of God’s family in His design for relational commitment and personal 
 development. We seek to be a family-centric community that integrates all individuals throughout our local church body. We 
 are committed to investing in strong, vibrant, gospel-focused ministries for children, youth, and adults. Specifically for 
 our families, we seek to equip and support parents in raising their children, and to provide appropriate opportunities to 
 integrate spiritual development, service, and outreach.  
 
-### ...WE HAVE A ‘MISSION OF OUTREACH’
+### ...we have a mission of outreach.
 
-Blue Course Community embraces Christ’s mission for the transformational renewal of lives through the Gospel. We are 
+Blue Course Community Church embraces Christ’s mission for the transformational renewal of lives through the Gospel. We are 
 committed to intentional outreach, and this mission permeates all our ministries. We encourage individuals to reach out to 
 others within their sphere of influence. As a congregation, we emphasize three main outreach efforts. First, we specifically 
 seek to serve, love, and reach our neighbors, and the families who live close to our facility. Second, recognizing our 
