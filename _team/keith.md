@@ -1,7 +1,7 @@
 ---
 title: "Keith Maurer"
 date: 2018-11-19T10:47:58+10:00
-image: "https://bluecoursecommunity.church/wp-content/uploads/2022/08/keith-e1661651187765-225x300.jpg"
+image: "/images/team/keith-225x225a.jpg"
 jobtitle: "Pastor"
 linkedinurl: false
 promoted: true

@@ -4,7 +4,7 @@ layout: contact
 description: Contact
 ---
 
-Blue Course Community Church is located at 1243 Blue Course Drive, State College, PA 16801.
+Blue Course Community Church is located at [1243 Blue Course Drive, State College, PA 16801](https://goo.gl/maps/qbp6GpCiD5ayaVY88).
 
 We are a member of the [Evangelical Free Church of America](https://www.efca.org/).
 

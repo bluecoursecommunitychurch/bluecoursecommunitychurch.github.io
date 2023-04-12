@@ -9,7 +9,7 @@ main:
     url: "/messages/"
     weight: 3
   - name: "Ministries"
-    url: "/services/"
+    url: "/ministries/"
     weight: 4
   - name: "Leadership"
     url: "/team/"

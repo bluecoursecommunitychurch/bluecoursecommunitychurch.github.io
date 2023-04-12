@@ -3,7 +3,8 @@ title: Leadership
 layout: teams
 description: Leadership
 permalink: "/team/"
-intro_image_absolute: true
+# intro_image: "/images/bccc_circle_620x492.png"
+intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 

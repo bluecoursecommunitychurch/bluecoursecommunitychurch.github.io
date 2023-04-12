@@ -1,7 +1,7 @@
 ---
 title: "Cindy Rutschky"
 date: 2018-11-19T10:47:58+10:00
-image: "https://bluecoursecommunity.church/wp-content/uploads/2022/08/cindy-225x300.jpg"
+image: "images/team/cindy-225x225a.jpg"
 jobtitle: "Children's Ministry Director"
 linkedinurl: false
 promoted: true
