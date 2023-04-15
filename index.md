@@ -14,7 +14,7 @@ We are Blue Course Community Church and we are so glad you're here!
 
 ### Service Times
 
-9:00AM - Equipping the Saints<br/>
+9:00AM - [Equipping the Saints](/ministries/ets/)<br/>
 10:00AM - Café Connections<br/>
 10:30AM - Service
 
