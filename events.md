@@ -7,12 +7,6 @@ bodyClass: page-basic
 
 # Featured Events
 
-## Sunday, April 16: Potluck
-**After worship**
-
-Please bring a main dish to share and if your last name begins with A-L, please also bring a side dish to share. If your 
-last name begins with M-Z, please also bring a dessert to share.
-
 ## Sunday, April 23: Pastor candidate feedback and Q&A
 **After worship**
 
