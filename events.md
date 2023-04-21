@@ -5,6 +5,7 @@ description: Events
 bodyClass: page-basic
 redirect_from:
   - /news
+  - /news/
 ---
 
 # Featured Events
