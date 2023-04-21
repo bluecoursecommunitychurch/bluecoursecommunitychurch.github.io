@@ -3,6 +3,8 @@ title: Events
 layout: page
 description: Events
 bodyClass: page-basic
+redirect_from:
+  - /news
 ---
 
 # Featured Events
