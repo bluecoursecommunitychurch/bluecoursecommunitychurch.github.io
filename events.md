@@ -21,6 +21,17 @@ Members are asked to attend in person or on Zoom for our annual meeting. The fol
 * Amended budget
 * Elder candidates
 
+## Saturday, May 6: Church work day
+**8am to 2pm**
+
+Spring outdoor work day (with some inside work available too): helpers needed! Please bring some of the following tools if you have them:
+* Hedge clipper
+* Rake
+* Extension cord
+* Wheelbarrow
+* Step ladder
+* Shovel
+
 -----
 
 
