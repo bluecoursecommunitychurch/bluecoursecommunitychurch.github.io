@@ -10,9 +10,6 @@ redirect_from:
 
 # Featured Events
 
-## Sunday, April 23: Pastor candidate feedback and Q&A
-**After worship**
-
 ## Sunday, April 30: Annual Meeting
 **After worship**
 
