@@ -29,6 +29,11 @@ Spring outdoor work day (with some inside work available too): helpers needed! P
 * Step ladder
 * Shovel
 
+## Saturday, May 13: Ice cream and games
+**5pm to 7pm**
+
+Free ice cream and yard games. Great family-friendly event. All are welcome.
+
 -----
 
 
