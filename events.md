@@ -10,14 +10,6 @@ redirect_from:
 
 # Featured Events
 
-## Sunday, April 30: Annual Meeting
-**After worship**
-
-Members are asked to attend in person or on Zoom for our annual meeting. The following topics will be voted on:
-* Senior pastor candidate
-* Amended budget
-* Elder candidates
-
 ## Saturday, May 6: Church work day
 **8am to 2pm**
 
