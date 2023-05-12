@@ -10,21 +10,15 @@ redirect_from:
 
 # Featured Events
 
-## Saturday, May 6: Church work day
-**8am to 2pm**
-
-Spring outdoor work day (with some inside work available too): helpers needed! Please bring some of the following tools if you have them:
-* Hedge clipper
-* Rake
-* Extension cord
-* Wheelbarrow
-* Step ladder
-* Shovel
-
 ## Saturday, May 13: Ice cream and games
 **5pm to 7pm**
 
 Free ice cream and yard games. Great family-friendly event. All are welcome.
+
+## Sunday, May 21: Potluck
+**After worship**
+
+If your last name begins with A-L please bring a dessert and if your last name begins M-Z please bring a side dish.  Each family is also asked to bring a main dish.  Please list ingredients used for those who may have allergies.
 
 -----
 
