@@ -10,11 +10,6 @@ redirect_from:
 
 # Featured Events
 
-## Saturday, May 13: Ice cream and games
-**5pm to 7pm**
-
-Free ice cream and yard games. Great family-friendly event. All are welcome.
-
 ## Sunday, May 21: Potluck
 **After worship**
 
