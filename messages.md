@@ -6,17 +6,17 @@ bodyClass: page-basic
 ---
 
 ## Latest Message
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sq2YNcfmyPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aGo0iBlKutI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 -----
 
-## Current Sermon Series: Holy Spirit
+## Current Sermon Series: Finishing Well (2 Timothy)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLyvmJflOnKP-Qsbj6t50fS8wwb3_-1G3Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 -----
 
-## Weekly Devotionals: Holy Spirit series
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLyvmJflOnKP9vA7GR4RGbDCC22M1-jK5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## Weekly Devotionals: Finishing Well (2 Timothy)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLyvmJflOnKP-a_Rwjkd45f6t-4BwY-YZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 -----
 
