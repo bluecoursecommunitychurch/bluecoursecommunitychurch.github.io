@@ -11,7 +11,7 @@ bodyClass: page-basic
 -----
 
 ## Current Sermon Series: Finishing Well (2 Timothy)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLyvmJflOnKP-Qsbj6t50fS8wwb3_-1G3Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLyvmJflOnKP99wVZjLSWqREirDkL6taBl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 -----
 
@@ -21,7 +21,7 @@ bodyClass: page-basic
 -----
 
 ## Message Archives
-### Recent Series: Sermon on the Mount
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLyvmJflOnKP-XaPY2pSXxsQ0UUzLFEya8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+### Recent Series: Holy Spirit
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLyvmJflOnKP-Qsbj6t50fS8wwb3_-1G3Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Browse our past sermon series, messages from guest speakers, and more [on our YouTube channel](https://www.youtube.com/@bluecoursecommunitychurch/featured)
