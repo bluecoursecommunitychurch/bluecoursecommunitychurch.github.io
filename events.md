@@ -10,10 +10,10 @@ redirect_from:
 
 # Featured Events
 
-## Sunday, May 21: Potluck
-**After worship**
+## Saturday, June 10: Game night, hot dogs, ice cream!
+**5-7pm**
 
-If your last name begins with A-L please bring a dessert and if your last name begins M-Z please bring a side dish.  Each family is also asked to bring a main dish.  Please list ingredients used for those who may have allergies.
+Bring your whole family and bring some friends for our monthly game night featuring great fellowship, hot dogs, and ice cream.
 
 -----
 
