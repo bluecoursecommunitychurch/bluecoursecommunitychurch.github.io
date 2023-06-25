@@ -10,10 +10,11 @@ redirect_from:
 
 # Featured Events
 
-## Monday, June 12: Help the Boonstras Move In
-**6:30pm-**
+## Saturday, July 8: Hot dogs, ice cream, and games
+**5-7pm**
 
-The Boonstra family can use our help moving in to their home in Boalsburg. Call or e-mail the office if you want to help but don't have the address.
+Our monthly community social. Play outdoor games or head inside for tabletop games. Have a hotdog or two and make a sundae. Bring a friend!
+
 
 -----
 

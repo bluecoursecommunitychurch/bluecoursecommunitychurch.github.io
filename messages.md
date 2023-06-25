@@ -6,11 +6,11 @@ bodyClass: page-basic
 ---
 
 ## Latest Message
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tod1Afmlz2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WRe4shcH91c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 -----
 
-## Current Sermon Series: Finishing Well (2 Timothy)
+## May/June Sermon Series: Finishing Well (2 Timothy)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLyvmJflOnKP99wVZjLSWqREirDkL6taBl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 -----
