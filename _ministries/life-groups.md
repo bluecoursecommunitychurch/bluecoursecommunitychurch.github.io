@@ -62,6 +62,6 @@ know they are accepted and believed in, but also challenged and helped to grow.
 * Contact the leaders to learn what they’re currently covering 
 * When: Wednesday, 10:00-11:30 AM
 * Where: Community Room in the church building
-* Contacts: Jody Maurer  Annette Martin
+* Contact: Annette Martin
 * Child care is usually provided
  
