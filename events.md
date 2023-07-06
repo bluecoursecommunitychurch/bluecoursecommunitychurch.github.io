@@ -10,10 +10,9 @@ redirect_from:
 
 # Featured Events
 
-## Saturday, July 8: Hot dogs, ice cream, and games
-**5-7pm**
+## Monday-Friday, July 24-28: Child Evangelism Fellowship 5-Day Club
 
-Our monthly community social. Play outdoor games or head inside for tabletop games. Have a hotdog or two and make a sundae. Bring a friend!
+Our church will be hosting a Child Evangelism Fellowship 5-Day Club for ages 2-12.  Parents are encouraged to stay with children under age 5.  There are information flyers at the welcome counter or see Cindy Rutschky or Vanessa Morehead for any questions.
 
 
 -----
