@@ -30,7 +30,7 @@ Do you have the gift of hospitality? We need a social events coordinator.
 Gifts other than the ones mentioned above? We can use you to grow Women’s Ministry at Blue Course Community Church into all 
 God intends it to be.
 
-Contacts: Jody Maurer, Annette Martin
+Contact: Annette Martin
 
 Child care usually provided
 
