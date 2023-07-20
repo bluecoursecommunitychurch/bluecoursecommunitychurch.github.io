@@ -6,9 +6,12 @@ bodyClass: page-basic
 ---
 
 ## Latest Message
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2AlexIUHJXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pDX4dDIWDHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 -----
+
+## July/August Sermon Series: Summer in the Psalms
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLyvmJflOnKP9k1R00qGS2h7_WtDZ8WCgL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## May/June Sermon Series: Finishing Well (2 Timothy)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLyvmJflOnKP99wVZjLSWqREirDkL6taBl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
