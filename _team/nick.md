@@ -8,7 +8,4 @@ promoted: true
 weight: 1
 ---
 
-![Nick](/images/team/nick-shadow.png)
-
-
 In July 2023, Blue Course Community Church welcomed Nick Boonstra as our new Senior Pastor.
