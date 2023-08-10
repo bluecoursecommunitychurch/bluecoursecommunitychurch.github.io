@@ -6,7 +6,7 @@ bodyClass: page-basic
 ---
 
 ## Latest Message
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pDX4dDIWDHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7UPH0K81hV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 -----
 
@@ -18,8 +18,8 @@ bodyClass: page-basic
 
 -----
 
-## Weekly Devotionals: Finishing Well (2 Timothy)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLyvmJflOnKP-a_Rwjkd45f6t-4BwY-YZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## Weekly Devotionals: Thursday Thoughts
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmQ2bU95qC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 -----
 
