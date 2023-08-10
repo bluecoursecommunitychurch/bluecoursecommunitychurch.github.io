@@ -5,6 +5,10 @@ description: About
 bodyClass: page-about
 ---
 
+# Statement of Faith
+
+Blue Course Community Church follows the [Evangelical Free Church of America's Statement of Faith](https://www.efca.org/sof).
+
 # Mission and Vision
 
 ## Our Mission
