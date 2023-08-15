@@ -10,10 +10,6 @@ redirect_from:
 
 # Featured Events
 
-## Sunday, August 13: 12-1pm
-
-If you are a volunteer with the Children's Ministry, please join us for pizza lunch and training.
-
 ## Sunday, August 20: after service
 
 Potluck following our worship service.  If your last name begins with A-L please bring a dessert and if your last name begins with M-Z please bring a side dish.  Everyone is also asked to bring a main.  Please list ingredients used for those who may have allergies.
