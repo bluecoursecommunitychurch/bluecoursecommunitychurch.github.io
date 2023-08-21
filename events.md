@@ -10,10 +10,6 @@ redirect_from:
 
 # Featured Events
 
-## Sunday, August 20: after service
-
-Potluck following our worship service.  If your last name begins with A-L please bring a dessert and if your last name begins with M-Z please bring a side dish.  Everyone is also asked to bring a main.  Please list ingredients used for those who may have allergies.
-
 ## Saturday, August 26: 5-7pm
 
 The Community Team will be holding an end of summer celebration.  Please join us! 

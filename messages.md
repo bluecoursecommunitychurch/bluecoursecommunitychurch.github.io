@@ -6,7 +6,7 @@ bodyClass: page-basic
 ---
 
 ## Latest Message
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0VfQtsudhmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ioykL6Lu7XA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 -----
 
@@ -19,7 +19,7 @@ bodyClass: page-basic
 -----
 
 ## Weekly Devotionals: Thursday Thoughts
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmQ2bU95qC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o2QzI5hlLxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 -----
 
